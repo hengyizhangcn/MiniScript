@@ -1,5 +1,7 @@
 # Instructions
 
+>./upload.sh [podspecFile] [customVersion]
+
 Three ways to use:
 
 1.custom version
