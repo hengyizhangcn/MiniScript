@@ -20,3 +20,5 @@ Three ways to use:
 ```bash
 ./upload.sh
 ```
+
+This shell script file should be committed to the your cocoaPods library
